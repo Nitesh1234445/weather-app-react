@@ -1,3 +1,13 @@
+# 🌦️ Weather Application
+
+## 🔗 Live Demo
+
+https://weather-wise-app-one.vercel.app/
+
+A fully dynamic weather application that displays real-time weather data based on the city entered by the user. Built using React and API integration with a clean and user-friendly interface.
+
+---
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
